@@ -2,6 +2,8 @@
 
 It's hamster time!
 
+![HamsterDance](https://github.com/junior-devleague/hamster-dance/blob/master/images/hamsterdance.gif)
+
 ## Objective
 Use **JavaScript Switch Statements** and **Keyboard Events** to detect when a user has pressed the up, down, left, and right arrows.
 
