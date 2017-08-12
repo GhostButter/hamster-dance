@@ -32,5 +32,9 @@ To complete the second part of this warmup, fulfill the following requirements:
 1. In your JS file, create variables to store the image and div element.
 2. Using the ```onkeydown``` event on the ```document```, create a function that will take in ```event``` as a parameter and use a switch statement.
 * The switch statement should take in ```event.keyCode``` as the parameter for the switch.
-  * If the ```keyCode``` equals to the code of the up arrow, change the source of the image to the ```up.png``` image.
+  * If the ```keyCode``` equals to the code of the up arrow, change the source of the image to the ```up.png``` image. Continue to do this for the left, right, and down arrows and their respective images.
   * Change the ```innerHTML``` of the text div element to display new text when a different arrow key is pressed!
+
+### Resources
+https://www.w3schools.com/jsref/event_key_keycode.asp
+https://www.w3schools.com/js/js_switch.asp 
